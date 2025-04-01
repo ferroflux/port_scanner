@@ -17,7 +17,7 @@ This is a fast and efficient **port scanner** built using Python. It utilizes **
 
 1. **Clone the Repository or Copy the Script**
    ```sh
-   git clone https://github.com/your-repo/port_scanner.git
+   git clone https://github.com/ferroflux/port_scanner.git
    cd port_scanner
    ```
 
